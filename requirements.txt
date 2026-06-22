@@ -1,0 +1,12 @@
+# Dependencias de PixelForge
+PySide6>=6.6
+Pillow>=10.0
+numpy>=1.24
+
+# --- Opcionales ---
+# Eliminar fondo con IA (red neuronal U2-Net):
+# rembg>=2.0
+# Detección automática de caras:
+# opencv-python>=4.8
+# Captura HTML a imagen (incluido en PySide6-Addons; si falta):
+# PySide6-Addons
